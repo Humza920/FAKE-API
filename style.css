@@ -5,6 +5,10 @@
  box-sizing: border-box;
  font-family: 'Poppins', sans-serif;}
 
+.items{border: 2px solid black;
+gap: 5px;}   
+
+.meta{gap: 5px;}
 
     #me{font-weight: 600;
         font-size: 40px;}
